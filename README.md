@@ -61,31 +61,31 @@ Chart Type: Matrix Card.
 
 ## Project Insights
 
-#### Sales & Revenue Patterns
+#### 1. Sales & Revenue Patterns
 
 The dashboard highlights how different product categories contribute to overall revenue.
 
 Seasonal and monthly sales trends help identify peak demand periods.
 
-#### Outlet Performance
+#### 2. Outlet Performance
 
 Comparison across outlet types (e.g., grocery stores, supermarkets) shows which outlets generate the highest sales.
 
 Certain outlet sizes and locations contribute more to overall profitability.
 
-#### Product Analysis
+#### 3. Product Analysis
 
 Items with Regular fat content and Medium visibility sell the most.
 
 Frozen foods, fruits & vegetables, and snack items contribute a significant portion of total sales.
 
-#### Customer Preferences
+#### 4. Customer Preferences
 
 Consumers prefer medium-sized outlets with a wider product variety.
 
 Packaged foods and consumables are consistently high in demand.
 
-#### Operational Insights
+#### 5. Operational Insights
 
 Larger outlets with better visibility drive higher sales.
 
