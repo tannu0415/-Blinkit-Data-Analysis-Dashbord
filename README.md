@@ -55,5 +55,5 @@ Objective: Provide a comprehensive view of all key metrics (Total Sales, Average
 broken down by different outlet types.
 Chart Type: Matrix Card.
 
-## Dashboard 
-https://github.com/tannu0415/-Blinkit-Data-Analysis-Dashbord/tree/main
+## Dashboard  Interaction
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZTc4ZThhNzYtNjk2OC00NDFkLWFkNzYtOGZhZWZkYTJkZTE3IiwidCI6IjczNDdmOWRhLWQzYmQtNDhkOS04OGQyLWYzZmIxMTk5MTZhYSJ9"View Interactive Dashboard</A>
