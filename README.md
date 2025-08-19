@@ -17,7 +17,7 @@ This dashboard enables stakeholders to make data-driven decisions regarding inve
 
 
 ## Dataset Used
-- <a href="https://github.com/tannu0415/-Blinkit-Data-Analysis-Dashbord">Dataset</a>
+- <a href="https://github.com/tannu0415/-Blinkit-Data-Analysis-Dashbord/blob/3aabafc53cefa524e3c0bb778b67debd1aa98827/BlinkIT%20Grocery%20Data.csv">Dataset</a>
 
 
 
